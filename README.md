@@ -185,7 +185,7 @@ To explore or replicate the Excel Bike Sales Dashboard Project, follow these ste
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/charles-pugh-tech/dashboard_project_excel.git
+   git clone https://github.com/charlespughtech/dashboard_project_excel.git
    cd dashboard_project_excel
    ```
 
