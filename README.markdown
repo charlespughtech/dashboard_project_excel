@@ -57,8 +57,8 @@ For this project, the data is stored in the "bike_buyers" sheet of `excel_dashbo
 ```bash
 dashboard_project_excel/
 ├── Excel Project Dataset.xlsx     # Original raw dataset
-├── excel_dashboard_project.xlsx   # Excel file containing sheets: bike_buyers (original data), working_sheet (data cleaning), pivot_table (analysis), dashboard (visualisation)
-└── README.md                      # Project overview and instructions
+├── README.md                      # Project overview and instructions
+└── excel_dashboard_project.xlsx   # Excel file containing sheets: bike_buyers (original data), working_sheet (data cleaning), pivot_table (analysis), dashboard (visualisation)
 ```
 
 ---
