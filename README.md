@@ -218,7 +218,7 @@ Results are available in `excel_dashboard_project.xlsx`. Check cells in "working
 
 ## Contact
 
-For inquiries or data analytics services, please contact:
+For enquiries or data analytics services, please contact:
 
 **Charles Pugh**
 
